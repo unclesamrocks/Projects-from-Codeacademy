@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"func"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"ma",
+				"mathFuncPlus"
+			],
+			[
+				"зна",
+				"значит"
+			],
+			[
+				"про",
+				"произведение"
+			],
+			[
+				"разн",
+				"разность"
+			],
+			[
+				"пере",
+				"переменные"
+			],
+			[
+				"ср",
+				"Сравнить"
+			],
+			[
+				"фу",
+				"функция"
+			],
+			[
+				"а",
+				"арифметические"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"po",
+				"pow"
+			],
+			[
+				"pow",
+				"pow"
+			],
+			[
+				"fi",
+				"fibonacci_string"
+			],
+			[
+				"p",
+				"pow"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"sw",
+				"switchCase"
+			],
+			[
+				"a",
+				"arg2"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"push",
+				"pushPass"
+			],
+			[
+				"fa",
+				"frank"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"pu",
+				"pushObj"
+			],
+			[
+				"pa",
+				"passangers"
+			],
+			[
+				"mat",
+				"matchesArr2"
+			],
+			[
+				"text-ali",
+				"text-align-last\tproperty"
+			],
+			[
+				"text-s",
+				"text-transform\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"min",
+				"min\tAttr"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"c",
+				"contain\tbackground-size"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"flex-w",
+				"flex-wrap\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"s",
+				"flex-start\talign-self"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"border-box\tbox-sizing"
+			],
+			[
+				"backgroun",
+				"background-position\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"lis",
+				"list-style-image\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"pl",
+				"playerSumm"
+			],
+			[
+				"de",
+				"dealerSumm"
+			],
+			[
+				"ge",
+				"getStatus"
+			],
+			[
+				"get",
+				"getStatus"
+			],
+			[
+				"pla",
+				"playerSumm"
+			],
+			[
+				"dea",
+				"dealerSumm"
+			],
+			[
+				"sum",
+				"sum"
+			],
+			[
+				"su",
+				"sumOfCards"
+			],
+			[
+				"Sum",
+				"sumOfCards"
+			],
+			[
+				"ar",
+				"arrRandomInt"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"cu",
+				"currentCount"
+			],
+			[
+				"C",
+				"currentCount"
+			],
+			[
+				"len",
+				"lengthMax"
+			],
+			[
+				"n",
+				"n-1"
+			],
+			[
+				"cap",
+				"capsRepeats"
+			],
+			[
+				"ca",
+				"capsRepeats"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"contu",
+				"continue"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"hit",
+				"hitCount"
+			],
+			[
+				"targ",
+				"target2"
+			],
+			[
+				"hi",
+				"hitCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 3210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "desc.txt",
+			"settings":
+			{
+				"buffer_size": 25998,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "JAVASCRIPT INTERACTIVE WEBSITES"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1212,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ulanabalukova/webdev/JS 1/Chore Bot Minigame"
+	],
+	"file_history":
+	[
+		"/Users/ulanabalukova/webdev/JS 1/Chore Bot Minigame/choreBotMinigame.sublime-project",
+		"/Users/ulanabalukova/webdev/JS 1/Chore Bot Minigame/choreBotMinigame.sublime-workspace",
+		"/Users/ulanabalukova/Desktop/JS 1/objects.html",
+		"/Users/ulanabalukova/Desktop/JS 1/array methods.js",
+		"/Users/ulanabalukova/Desktop/JS 1/lodash training.js",
+		"/Users/ulanabalukova/Desktop/JS 1/findKey(obj, func).html",
+		"/Users/ulanabalukova/git/test-repo/bb.txt",
+		"/Users/ulanabalukova/git/test-repo/Test.txt",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/Tea Shop Tutorial/main.js",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/Tea Shop Tutorial/index.html",
+		"/Users/ulanabalukova/Desktop/JS 1/JS#1 HW#2.html",
+		"/Users/ulanabalukova/Desktop/JS 1/function speed check.js",
+		"/Users/ulanabalukova/Desktop/JS 1/looking for doubles in arrays.js",
+		"/Users/ulanabalukova/Desktop/JS 1/whale translator.js",
+		"/Users/ulanabalukova/Desktop/JS 1/JS#1 homework 2.html",
+		"/Users/ulanabalukova/Desktop/JS 1/js#1 HW#2 leftovers.js",
+		"/Users/ulanabalukova/Desktop/JS 1/while loop cards.js",
+		"/Users/ulanabalukova/Desktop/JS 1/rock paper scissors game.js",
+		"/Users/ulanabalukova/Desktop/JS 1/sleepDebt.js",
+		"/Users/ulanabalukova/Desktop/JS 1/how old in year x.js",
+		"/Users/ulanabalukova/Desktop/JS 1/sharedDNA.js",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/Tea Shop Tutorial/style.css",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/Form Example/test.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/Form Example/teststyle.css",
+		"/Users/ulanabalukova/Desktop/JS 1/planets weight calc.js",
+		"/Users/ulanabalukova/Desktop/JS 1/truthy or falsy.js",
+		"/Users/ulanabalukova/Desktop/JS 1/home.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/Paint Shop Tutorial/style.css",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/Paint Shop Tutorial/index.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/test.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/teststyle.css",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/index.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/wenger2.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/wenger1.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/contacts.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/catalog.html",
+		"/Users/ulanabalukova/Desktop/JS 1/HTML/style.css",
+		"/Users/ulanabalukova/Desktop/JS 1/bank deposit.html",
+		"/Users/ulanabalukova/Desktop/JS 1/sequence Zero.html",
+		"/Users/ulanabalukova/Desktop/JS 1/blackjack basic.html",
+		"/Users/ulanabalukova/Desktop/JS 1/home1",
+		"/Users/ulanabalukova/Desktop/JS 1/home1.html",
+		"/Users/ulanabalukova/Desktop/JS 1/riddles.html",
+		"/Users/ulanabalukova/Desktop/JS 1/shooting game.html",
+		"/Users/ulanabalukova/Desktop/JS 1/birds.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "desc.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1961,
+								1961
+							]
+						],
+						"settings":
+						{
+							"auto_name": "JAVASCRIPT INTERACTIVE WEBSITES",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 703.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.74588751941,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "",
+	"project": "choreBotMinigame.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

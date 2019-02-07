@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Handlebars tutorial</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="handlebars.min.js"></script>
+	<!-- START Handlebar context script #1 -->
+    <script id="repeatBox1" type="text/x-handlebars-template">
+    	{{#each variables}}
+    		{{#if this.check}}
+    			<div class="repeatBox flex">
+    				<p>
+    					This is {{this.name}} and it's state is 'true' - <strong>{{this.check}}</strong>!
+    				</p>
+    			</div>
+    		{{else}}
+    			<div class="repeatBox flex">
+    				<p>
+    					This is {{this.name}} and it's state is 'false' - <strong>{{this.check}}</strong>!
+    				</p>
+    			</div>
+    		{{/if}}
+    	{{/each}}
+    </script>
+    <script id="repeatBox2" type="text/x-handlebars-template">
+    	{{#each variables}}
+    		{{#if (ne this.check true)}}
+    			<div class="repeatBox flex">
+    				<p>
+    					This is {{this.name}} and it's state is 'false' - <strong>{{this.check}}</strong>!
+    				</p>
+    			</div>
+    		{{/if}}
+    	{{/each}}
+    	{{#each variables}}
+    		{{#if (eq this.check true)}}
+    			<div class="repeatBox flex">
+    				<p>
+    					This is {{this.name}} and it's state is 'true' - <strong>{{this.check}}</strong>!
+    				</p>
+    			</div>
+    		{{/if}}
+    	{{/each}}
+    </script>
+    <!-- END Handlebar context script #1 -->
+</head>
+<body>
+	<div class="wrap">
+		<h2>
+			Learning to use Handlebar features!
+		</h2>
+		<!-- Don't forget to put ID atribute so main.js will find it! --> 
+		<div id="repeatBoxWrapId-1" class="repeatBoxWrap flex">
+			<!-- Passing HB content here -->
+		</div>
+		<div id="repeatBoxWrapId-2" class="repeatBoxWrap flex">
+			<!-- Passing HB content here -->
+		</div>
+	</div>
+	<script type="text/javascript" src="main.js" defer></script>
+</body>
+</html>

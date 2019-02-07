@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #0F1931;
+	color: white;
+	font-style: sans-serif;
+	font-size: 16px;
+}
+strong {
+	color: yellow;
+}
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+.wrap{
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 15px;
+	text-align: center;
+	border: 1px dotted red;
+}
+.repeatBoxWrap {
+	margin: 20px auto;
+	width: 80%;
+	padding: 20px 20px;
+	border: 1px dotted blue;
+}
+.repeatBox {
+	width: 45%;
+	height: 150px;
+	border: 1px dotted green;
+	margin: 10px 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+@media (max-width: 400px) {
+  .repeatBox {
+   	width: 200px;
+  }
+}
+
+
