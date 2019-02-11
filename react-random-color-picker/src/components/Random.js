@@ -6,6 +6,13 @@ class Random extends React.Component {
       super(props);
       this.state = { 
         color: [102, 32, 53],
+        newObj: {
+          someProps: 123,
+          innerObj: {
+            someInnerPropos: 321
+          }
+        },
+        anotherObj: {}
       };
       this.handleClick = this.handleClick.bind(this);
     }
@@ -46,11 +53,12 @@ class Random extends React.Component {
   
     render() {
       return (
-        <div>
+        <div style={{ textAlign: 'center' }}>
           <h1 className={this.isLight() ? 'white' : 'black'}>
             Your color is [{this.formatColor(this.state.color)}]!
           </h1>
           <Button light={this.isLight()} onClick={this.handleClick} />
+          <pre style={{ margin: '0 auto', width: 300, textAlign: 'left' }} className={this.isLight() ? 'white' : 'black'}> {JSON.stringify(this.state, null, 2)}</pre>
         </div>
       );
     }
